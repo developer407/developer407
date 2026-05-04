@@ -1,9 +1,8 @@
 ### Hi there <img src="https://a.slack-edge.com/6c404/marketing/img/homepage/bold-existing-users/waving-hand.gif" width="30" height="30"/> I'm Ashok Zarmariya
 
-🚀 Backend-focused developer who builds real-world, production-ready systems.
+🚀 Backend-focused developer building **production-ready systems & AI-powered applications**.
 
-I specialize in **Java + Spring Boot**, with strong interest in **system design, scalable architecture, and AI-powered applications**.  
-I don't just write code — I build systems that reflect real-world workflows.
+I specialize in **Java + Spring Boot** and modern **AI engineering**, focusing on real-world system design, scalable architecture, and intelligent applications using RAG & AI agents.
 
 ---
 
@@ -11,27 +10,41 @@ I don't just write code — I build systems that reflect real-world workflows.
 - 🔹 Build scalable REST APIs using Spring Boot  
 - 🔹 Design clean backend architecture (Controller → Service → Repository)  
 - 🔹 Develop real-world systems like **Banking Applications**  
+- 🔹 Build **AI-powered systems (RAG, Chatbots, AI Agents)**  
 - 🔹 Deploy apps using **Docker, Docker Compose & VPS (Linux)**  
-- 🔹 Explore **AI (RAG, FastAPI, Vector DB)**  
 - 🔹 Work with **React + MUI** for full-stack integration  
+
+---
+
+## 🤖 AI & Modern Tech Focus
+- 🔹 Build **RAG pipelines** using FastAPI + Vector Databases  
+- 🔹 Create **AI Agents using LangChain & LangGraph**  
+- 🔹 Work with **LLMs (Gemini / OpenAI APIs)**  
+- 🔹 Document-based Q&A systems (PDF chatbot)  
+- 🔹 Backend integration for AI systems  
 
 ---
 
 ## 🌱 Currently Learning
 - Advanced **Spring Boot & Microservices**
-- **System Design & Distributed Systems**
-- Secure backend development (**JWT, Transactions, RBAC**)
+- **Distributed Systems & System Design**
+- Advanced **AI Agent Architectures**
+- Secure backend systems (**JWT, RBAC, Transactions**)
 
 ---
 
 ## 🤝 Open Source & Collaboration
-I'm looking to collaborate on meaningful backend or system design projects.  
-If you're working on something interesting — feel free to reach out!
+I'm open to collaborating on:
+- Backend-heavy projects  
+- AI / RAG / Agent-based systems  
+- Real-world scalable applications  
+
+👉 If you're building something interesting, let’s connect.
 
 ---
 
 ## 💬 Ask Me About
-Backend development, APIs, system design basics, deployment, or anything tech-related 🚀
+Backend development, APIs, system design, AI agents, RAG systems, deployment 🚀
 
 ---
 
@@ -42,7 +55,7 @@ Backend development, APIs, system design basics, deployment, or anything tech-re
 ---
 
 ## ⚡ Fun Fact
-> “I don’t just learn code, I build systems.”
+> “I don’t just build apps, I build systems that think.”
 
 ---
 
@@ -55,6 +68,13 @@ Backend development, APIs, system design basics, deployment, or anything tech-re
 ### 🚀 Backend
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🤖 AI / ML
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-System-purple?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/VectorDB-red?style=for-the-badge)
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
