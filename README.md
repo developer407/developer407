@@ -1,107 +1,92 @@
-### Hi there <img src="https://a.slack-edge.com/6c404/marketing/img/homepage/bold-existing-users/waving-hand.gif" width="30" height="30"/> I Am Ashok
+### Hi there <img src="https://a.slack-edge.com/6c404/marketing/img/homepage/bold-existing-users/waving-hand.gif" width="30" height="30"/> I'm Ashok Zarmariya
 
+🚀 Backend-focused developer who builds real-world, production-ready systems.
 
+I specialize in **Java + Spring Boot**, with strong interest in **system design, scalable architecture, and AI-powered applications**.  
+I don't just write code — I build systems that reflect real-world workflows.
 
+---
 
+## 💻 What I Do
+- 🔹 Build scalable REST APIs using Spring Boot  
+- 🔹 Design clean backend architecture (Controller → Service → Repository)  
+- 🔹 Develop real-world systems like **Banking Applications**  
+- 🔹 Deploy apps using **Docker, Docker Compose & VPS (Linux)**  
+- 🔹 Explore **AI (RAG, FastAPI, Vector DB)**  
+- 🔹 Work with **React + MUI** for full-stack integration  
 
-A focused, full-stack web developer proficient in developing scalable and well-documented code. Capable of working on independent projects. Looking to prove his skills and talents in a challenging work environment.
+---
 
-<!--
-**Ashokzarmariya/ashokzarmariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Currently Learning
+- Advanced **Spring Boot & Microservices**
+- **System Design & Distributed Systems**
+- Secure backend development (**JWT, Transactions, RBAC**)
 
-Here are some ideas to get you started:
+---
 
+## 🤝 Open Source & Collaboration
+I'm looking to collaborate on meaningful backend or system design projects.  
+If you're working on something interesting — feel free to reach out!
 
+---
 
--->
+## 💬 Ask Me About
+Backend development, APIs, system design basics, deployment, or anything tech-related 🚀
 
-  
-  
-- 🔭 I’m currently Work on MERN Technology
+---
 
-- 🌱 I’m currently learning spring boot 
+## 📫 Connect With Me
+[![portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://ashok-portfolio.vercel.app/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashok-zarmariya-473aa722a/)
 
-- 🤔 I’m looking for help with collaborate on OpenSource Contributions. 
-  Ping me, if you can guide me. Would be grateful
+---
 
-- 💬 Ask me about anything, releted Technology i am happy to help;...  
-    
+## ⚡ Fun Fact
+> “I don’t just learn code, I build systems.”
 
-
-- 📫 You can reach out to me by following platforms: 
-    
-  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://ashok-portfolio.vercel.app/)
-  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashok-zarmariya-473aa722a/)
-  
-  
-  
-
-- ⚡ Fun fact: 
-  “A lot of people are afraid to say what they want. 
-  That’s why they don’t get what they want.”
-
-  
-  
+---
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="200" />
 
+---
 
+## 🛠️ Tech Stack
 
-## languages and tools:
-[![javascript]( https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white)]()
-[![javascript]( https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white )]()
-[![javascript]( https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux&logoColor=white )]()
-[![javascript]( https://img.shields.io/badge/html-blue?style=for-the-badge&logo=html&logoColor=white )]()
-[![javascript]( https://img.shields.io/badge/css-yellow?style=for-the-badge&logo=html&logoColor=white )]()
-[![javascript]( https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=html&logoColor=white )]()
-[![javascript]( https://img.shields.io/badge/MUI-black?style=for-the-badge&logo=html&logoColor=white )]()
-[![javascript]( https://img.shields.io/badge/tailwindcss-yellow?style=for-the-badge&logo=html&logoColor=white )]()
-[![javascript]( https://img.shields.io/badge/framer-motion-pink?style=for-the-badge&logo=html&logoColor=white )]()
-[![javascript]( https://img.shields.io/badge/nodejs-orange?style=for-the-badge&logo=html&logoColor=white )]()
-[![javascript]( https://img.shields.io/badge/expressjs-blue?style=for-the-badge&logo=html&logoColor=white )]()
+### 🚀 Backend
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=white)
 
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
+### 🎨 Styling
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/FramerMotion-pink?style=for-the-badge&logo=framer&logoColor=white)
 
+### ⚙️ Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
 
- <p align="center">
-    <h1> Github Status </h1>
-</p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=developer407&show_icons=true&theme=gotham" alt="Ashok" />
-  
-  <p align="center">
-    <a href="https://github.com/developer407/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ashok Zarmariya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=developer407&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=developer407&show_icons=true&theme=gotham" />
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer407&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer407&theme=black-ice&hide_border=true"/>
 </p>
-
 
 <p align="center">
- <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer407&theme=react&hide_border=true&bg_color=0D1117"/>
 </p>
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+ <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+</p>
